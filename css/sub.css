@@ -434,7 +434,7 @@ nav {
     color: #193988;
 }
 .L_nav ul li a {
-    color: #697db4;
+    color: #19388a;
     font-weight: 900;
 }
 .L_nav ul li:first-child a {
@@ -495,6 +495,7 @@ label:last-child {
 }
 input[type=radio]:checked + label {   /* 동위관계 선택자 + (cheked 바로뒤에 오는 형제)*/
     background-color: #1b3b86;
+    border: 1px solid #1b3b86;
     color: #fff;
 }
 
